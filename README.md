@@ -37,8 +37,8 @@ class DataScientist:
     def __init__(self):
         self.name = "Sachin Laxman Masti"
         self.role = "Data Science Student"
-        self.language_spoken = ["hi_IN", "en_US"]
-        self.current_focus = ["Pandas", "Machine Learning"]
+        self.language_spoken = ["Hindi", "English","Marathi","Kannada"]
+        self.current_focus = ["Python","Pandas","Numpy","Matplotlib","Seaborne", "Machine Learning"]
         
     def say_hi(self):
         print("Thanks for dropping by!")
