@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Yo845/Yo845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Sachin%20Laxman%20Masti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
@@ -76,8 +62,6 @@ me.say_hi()
 
 ## ⚙️ Tools & Platforms
 
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">
@@ -98,8 +82,6 @@ me.say_hi()
 
 </div>
 
-
-
 </div>
 
 <br>
@@ -108,19 +90,19 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yo845&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFD700&text_color=FFFFFF" alt="Sachin's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yo845&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FFD700&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinmasti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFD700&text_color=FFFFFF" alt="Sachin's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinmasti&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FFD700&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yo845&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yo845&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=FFD700&point=FF6B6B" alt="Contribution Graph" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinmasti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinmasti&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=FFD700&point=FF6B6B" alt="Contribution Graph" width="48%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yo845&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinmasti&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
@@ -141,7 +123,7 @@ me.say_hi()
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-masti-23a275228/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinmasti88@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yo845)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinmasti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
@@ -163,7 +145,7 @@ me.say_hi()
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Yo845&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sachinmasti&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -174,7 +156,7 @@ me.say_hi()
   
 ### 💫 *"Keep learning, keep building, and stay consistent every single day."*
 
-**⭐ From [Yo845](https://github.com/Yo845) with 💙**
+**⭐ From [sachinmasti](https://github.com/sachinmasti) with 💙**
 
 </div>
 
